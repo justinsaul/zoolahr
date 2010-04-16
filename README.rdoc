@@ -1,0 +1,9 @@
+= ZoolahR
+
+The Zoolah API Ruby Wrapper Gem
+
+*In the example folder there is a file that helps connect your User model to this gem and connect.
+
+
+
+--- Heavily inspired by Pelle Braendgaard and the Agree2 Gem. 
